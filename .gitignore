@@ -7,7 +7,7 @@ node_modules/
 dist/
 build/
 .cache/
-.parcel-cache
+parcel-cache/
 .webpack/
 
 # Logs

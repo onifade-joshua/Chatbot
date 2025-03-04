@@ -12,7 +12,7 @@ const Sidebar = ({ sidebarOpen, toggleSidebar }) => {
       <Box
         sx={{
           width: "220px",
-          maxHeight: "100vh",
+          maxHeight: "auto",
           backgroundColor: darkMode ? "#1e1e1e" : "#fff",
           color: darkMode ? "#fff" : "#000",
           borderRight: "1px solid #333",
