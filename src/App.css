@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h2{
+    text-align: center;
+}
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+  body.dark-mode a {
+    color: #ffffff;
+  }
+  
+  body.dark-mode .MuiPaper-root {
+    background-color: #1e1e1e !important;
+    color: #ffffff !important;
+  }
+  
